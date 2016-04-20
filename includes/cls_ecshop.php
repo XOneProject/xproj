@@ -19,8 +19,8 @@ if (!defined('IN_ECS'))
 }
 
 define('APPNAME', 'XPROJ');
-define('VERSION', 'v2.7.3');
-define('RELEASE', '20121106');
+define('VERSION', 'v1.0.0');
+define('RELEASE', '20160601');
 
 class ECS
 {
