@@ -18,7 +18,7 @@ if (!defined('IN_ECS'))
     die('Hacking attempt');
 }
 
-define('APPNAME', 'ECSHOP');
+define('APPNAME', 'XPROJ');
 define('VERSION', 'v2.7.3');
 define('RELEASE', '20121106');
 

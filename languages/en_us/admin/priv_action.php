@@ -77,7 +77,7 @@ $_LANG['role_manage'] = ' Role Management';
 
 //Authorization  of system setup management
 $_LANG['shop_config'] = 'Shop config';
-$_LANG['shop_authorized'] = 'Authorized';
+
 $_LANG['webcollect_manage'] = 'Webcollect';
 $_LANG['ship_manage'] = 'Shipping method management';
 $_LANG['payment'] = 'Payment method management';

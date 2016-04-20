@@ -105,10 +105,7 @@
 </style>
 {insert_scripts files="../js/transport.js"}
 <script type="text/javascript">
-onload = function()
-{
-  Ajax.call('index.php?is_ajax=1&act=license','', start_sendmail_Response, 'GET', 'JSON');
-}
+
 /**
  * 帮助系统调用
  */
@@ -191,8 +188,7 @@ var adminId = "{$admin_id}";
   <div id="license-div" style="bgcolor:#000000;"></div>
   <div id="submenu-div">
     <ul>
-      <li><a href="index.php?act=about_us" target="main-frame">{$lang.about}</a></li>
-      <li><a href="javascript:web_address();">{$lang.help}</a></li>
+
       <li><a href="../" target="_blank">{$lang.preview}</a></li>
       <li><a href="message.php?act=list" target="main-frame">{$lang.view_message}</a></li>
       <li><a href="privilege.php?act=modif" target="main-frame">{$lang.profile}</a></li>
@@ -203,7 +199,7 @@ var adminId = "{$admin_id}";
     <div id="send_info" style="padding: 5px 10px 0 0; clear:right;text-align: right; color: #FF9900;width:40%;float: right;">
       {if $send_mail_on eq 'on'}
       <span id="send_msg"><img src="images/top_loader.gif" width="16" height="16" alt="{$lang.loading}" style="vertical-align: middle" /> {$lang.email_sending}</span>
-      <a href="javascript:;" onClick="Javascript:switcher()" id="lnkSwitch" style="margin-right:10px;color: #FF9900;text-decoration: underline">{$lang.pause}</a>
+      <a href="javascript:;" onClick="switcher()" id="lnkSwitch" style="margin-right:10px;color: #FF9900;text-decoration: underline">{$lang.pause}</a>
       {/if}
       <a href="index.php?act=clear_cache" target="main-frame" class="fix-submenu">{$lang.clear_cache}</a>
       <a href="privilege.php?act=logout" target="_top" class="fix-submenu">{$lang.signout}</a>
@@ -275,8 +271,8 @@ var adminId = "{$admin_id}";
       
         var string = arguments[0];   
         var exp = new RegExp(/(%([%]|(\-)?(\+|\x20)?(0)?(\d+)?(\.(\d)?)?([bcdfosxX])))/g);   
-        var matches = new Array();   
-        var strings = new Array();   
+        var matches = [];
+        var strings = [];
         var convCount = 0;   
         var stringPosStart = 0;   
         var stringPosEnd = 0;   
@@ -337,7 +333,7 @@ var adminId = "{$admin_id}";
             substitution = sprintfWrapper.convert(matches[i]);   
           }   
           else if (matches[i].code == 's') {   
-            matches[i].argument = matches[i].argument.substring(0, matches[i].precision ? matches[i].precision : matches[i].argument.length)   
+            matches[i].argument = matches[i].argument.substring(0, matches[i].precision ? matches[i].precision : matches[i].argument.length);
             substitution = sprintfWrapper.convert(matches[i], true);   
           }   
           else if (matches[i].code == 'x') {   
@@ -384,7 +380,7 @@ var adminId = "{$admin_id}";
           }   
         }   
       }   
-    }   
+    };
       
     sprintf = sprintfWrapper.init;  
 

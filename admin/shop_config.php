@@ -240,7 +240,7 @@ elseif ($_REQUEST['act'] == 'post')
     $spt .= "&email=$_CFG[service_email]&phone=$_CFG[service_phone]&icp=".urlencode($_CFG['icp_number']);
     $spt .= "&version=".VERSION."&language=$_CFG[lang]&php_ver=" .PHP_VERSION. "&mysql_ver=" .$db->version();
     $spt .= "&charset=".EC_CHARSET;
-    $spt .= '"></script>';
+    /*$spt .= '"></script>';*/
 
     if ($type == 'mail_setting')
     {

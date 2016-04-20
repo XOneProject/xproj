@@ -140,7 +140,7 @@ body {
   </li>
 {/if}
 {/foreach}
-  <script language="JavaScript" src="http://api.ecshop.com/menu_ext.php?charset={$charset}&lang={$help_lang}"></script>
+
 </ul>
 </div>
 <div id="help-div" style="display:none">
@@ -229,7 +229,7 @@ document.getElementById('menu-list').onclick = function(e)
 {
   var obj = Utils.srcElement(e);
   toggleCollapseExpand(obj);
-}
+};
 
 document.getElementById('tabbar-div').onmouseover=function(e)
 {
@@ -239,7 +239,7 @@ document.getElementById('tabbar-div').onmouseover=function(e)
   {
     obj.className = "tab-hover";
   }
-}
+};
 
 document.getElementById('tabbar-div').onmouseout=function(e)
 {
@@ -249,7 +249,7 @@ document.getElementById('tabbar-div').onmouseout=function(e)
   {
     obj.className = "tab-back";
   }
-}
+};
 
 document.getElementById('tabbar-div').onclick=function(e)
 {
@@ -285,7 +285,7 @@ document.getElementById('tabbar-div').onclick=function(e)
     act = pos4 < 0 ? loc.substring(pos3 + 4) : loc.substring(pos3 + 4, pos4);
     loadHelp(filename, act);
   }
-}
+};
 
 /**
  * 创建XML对象
@@ -344,10 +344,10 @@ function createDocument()
 }
 
 //菜单展合状态处理器
-var ToggleHanlder = new Object();
+var ToggleHanlder = {};
 
 Object.extend(ToggleHanlder ,{
-  SourceObject : new Object(),
+  SourceObject : {},
   CookieName   : 'Toggle_State',
   RecordState : function(name,state)
   {
@@ -406,7 +406,7 @@ Object.extend(ToggleHanlder ,{
 ToggleHanlder.CookieName += "_{$admin_id}";
 //初始化菜单状态
 ToggleHanlder.Load();
-Ajax.call('cloud.php?is_ajax=1&act=menu_api','', start_menu_api, 'GET', 'JSON');
+
 function start_menu_api(result)
 {
       if(result.content==0)

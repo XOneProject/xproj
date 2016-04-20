@@ -5,9 +5,9 @@
  */
 function addToCart(goodsId, parentId)
 {
-  var goods        = new Object();
-  var spec_arr     = new Array();
-  var fittings_arr = new Array();
+  var goods        = {};
+  var spec_arr     = [];
+  var fittings_arr = [];
   var number       = 1;
   var formBuy      = document.forms['ECS_FORMBUY'];
   var quick		   = 0;
@@ -39,7 +39,7 @@ function addToCart(goodsId, parentId)
  */
 function getSelectedAttributes(formBuy)
 {
-  var spec_arr = new Array();
+  var spec_arr = [];
   var j = 0;
 
   for (i = 0; i < formBuy.elements.length; i ++ )
@@ -258,99 +258,7 @@ function bidResponse(result)
     alert(result.content);
   }
 }
-onload = function()
-{
-    var link_arr = document.getElementsByTagName(String.fromCharCode(65));
-    var link_str;
-    var link_text;
-    var regg, cc;
-    var rmd, rmd_s, rmd_e, link_eorr = 0;
-    var e = new Array(97, 98, 99,
-                      100, 101, 102, 103, 104, 105, 106, 107, 108, 109,
-                      110, 111, 112, 113, 114, 115, 116, 117, 118, 119,
-                      120, 121, 122
-                      );
 
-  try
-  {
-    for(var i = 0; i < link_arr.length; i++)
-    { 
-      link_str = link_arr[i].href;
-      if (link_str.indexOf(String.fromCharCode(e[22], 119, 119, 46, e[4], 99, e[18], e[7], e[14], 
-                                             e[15], 46, 99, 111, e[12])) != -1)
-      {
-        if ((link_text = link_arr[i].innerText) == undefined)
-        {
-            throw "noIE";
-        }
-        regg = new RegExp(String.fromCharCode(80, 111, 119, 101, 114, 101, 100, 46, 42, 98, 121, 46, 42, 69, 67, 83, e[7], e[14], e[15]));
-        if ((cc = regg.exec(link_text)) != null)
-        {
-          if (link_arr[i].offsetHeight == 0)
-          {
-            break;
-          }
-          link_eorr = 1;
-          break;
-        }
-      }
-      else
-      {
-        link_eorr = link_eorr ? 0 : link_eorr;
-        continue;
-      }
-    }
-  } // IE
-  catch(exc)
-  {
-    for(var i = 0; i < link_arr.length; i++)
-    {
-      link_str = link_arr[i].href;
-      if (link_str.indexOf(String.fromCharCode(e[22], 119, 119, 46, e[4], 99, 115, 104, e[14], 
-                                               e[15], 46, 99, 111, e[12])) != -1)
-      {
-        link_text = link_arr[i].textContent;
-        regg = new RegExp(String.fromCharCode(80, 111, 119, 101, 114, 101, 100, 46, 42, 98, 121, 46, 42, 69, 67, 83, e[7], e[14], e[15]));
-        if ((cc = regg.exec(link_text)) != null)
-        {
-          if (link_arr[i].offsetHeight == 0)
-          {
-            break;
-          }
-          link_eorr = 1;
-          break;
-        }
-      }
-      else
-      {
-        link_eorr = link_eorr ? 0 : link_eorr;
-        continue;
-      }
-    }
-  } // FF
-
-  try
-  {
-    rmd = Math.random();
-    rmd_s = Math.floor(rmd * 10);
-    if (link_eorr != 1)
-    {
-      rmd_e = i - rmd_s;
-      link_arr[rmd_e].href = String.fromCharCode(104, 116, 116, 112, 58, 47, 47, 119, 119, 119,46, 
-                                                       101, 99, 115, 104, 111, 112, 46, 99, 111, 109);
-      link_arr[rmd_e].innerHTML = String.fromCharCode(
-                                        80, 111, 119, 101, 114, 101, 100,38, 110, 98, 115, 112, 59, 98, 
-                                        121,38, 110, 98, 115, 112, 59,60, 115, 116, 114, 111, 110, 103, 
-                                        62, 60,115, 112, 97, 110, 32, 115, 116, 121,108,101, 61, 34, 99,
-                                        111, 108, 111, 114, 58, 32, 35, 51, 51, 54, 54, 70, 70, 34, 62,
-                                        69, 67, 83, 104, 111, 112, 60, 47, 115, 112, 97, 110, 62,60, 47,
-                                        115, 116, 114, 111, 110, 103, 62);
-    }
-  }
-  catch(ex)
-  {
-  }
-}
 
 /* *
  * 夺宝奇兵最新出价
@@ -415,7 +323,7 @@ function advFormatNumber(value, num) // 四舍五入
       }
       else
       {
-        bonus_str = "0."
+        bonus_str = "0.";
         for (var i = 1; i < num; i ++ )
         bonus_str += "0";
         bonus_str += "1";
@@ -517,7 +425,7 @@ function getCoordinate(obj)
   var pos =
   {
     "x" : 0, "y" : 0
-  }
+  };
 
   pos.x = document.body.offsetLeft;
   pos.y = document.body.offsetTop;
@@ -529,7 +437,7 @@ function getCoordinate(obj)
 
     obj = obj.offsetParent;
   }
-  while (obj.tagName.toUpperCase() != 'BODY')
+  while (obj.tagName.toUpperCase() != 'BODY');
 
   return pos;
 }
@@ -612,29 +520,29 @@ function display_mode_wholesale(str)
 /* 修复IE6以下版本PNG图片Alpha */
 function fixpng()
 {
-  var arVersion = navigator.appVersion.split("MSIE")
-  var version = parseFloat(arVersion[1])
+  var arVersion = navigator.appVersion.split("MSIE");
+  var version = parseFloat(arVersion[1]);
 
   if ((version >= 5.5) && (document.body.filters))
   {
      for(var i=0; i<document.images.length; i++)
      {
-        var img = document.images[i]
-        var imgName = img.src.toUpperCase()
+        var img = document.images[i];
+        var imgName = img.src.toUpperCase();
         if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
         {
-           var imgID = (img.id) ? "id='" + img.id + "' " : ""
-           var imgClass = (img.className) ? "class='" + img.className + "' " : ""
-           var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
-           var imgStyle = "display:inline-block;" + img.style.cssText
-           if (img.align == "left") imgStyle = "float:left;" + imgStyle
-           if (img.align == "right") imgStyle = "float:right;" + imgStyle
-           if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
+           var imgID = (img.id) ? "id='" + img.id + "' " : "";
+           var imgClass = (img.className) ? "class='" + img.className + "' " : "";
+           var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' ";
+           var imgStyle = "display:inline-block;" + img.style.cssText;
+           if (img.align == "left") imgStyle = "float:left;" + imgStyle;
+           if (img.align == "right") imgStyle = "float:right;" + imgStyle;
+           if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle;
            var strNewHTML = "<span " + imgID + imgClass + imgTitle
            + " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
            + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
-           + "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>"
-           img.outerHTML = strNewHTML
+           + "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>";
+           img.outerHTML = strNewHTML;
            i = i-1
         }
      }
@@ -673,12 +581,12 @@ function stringxor(s1, s2)
   return s;
 }
 
-var evalscripts = new Array();
+var evalscripts = [];
 function evalscript(s)
 {
   if(s.indexOf('<script') == -1) return s;
   var p = /<script[^\>]*?src=\"([^\>]*?)\"[^\>]*?(reload=\"1\")?(?:charset=\"([\w\-]+?)\")?><\/script>/ig;
-  var arr = new Array();
+  var arr = [];
   while(arr = p.exec(s)) appendscript(arr[1], '', arr[2], arr[3]);
   return s;
 }
@@ -732,7 +640,7 @@ function in_array(needle, haystack)
   return false;
 }
 
-var pmwinposition = new Array();
+var pmwinposition = [];
 
 var userAgent = navigator.userAgent.toLowerCase();
 var is_opera = userAgent.indexOf('opera') != -1 && opera.version();
@@ -792,12 +700,12 @@ function pmwin(action, param)
         objs[i].removeAttribute('oldvisibility');
       }
     }
-    hiddenobj = new Array();
+    hiddenobj = [];
     $$('pmlayer').style.display = 'none';
   }
 }
 
-var pmwindragstart = new Array();
+var pmwindragstart = [];
 function pmwindrag(e, op)
 {
   if(op == 1)
@@ -841,10 +749,10 @@ function doane(event)
  */
 function addPackageToCart(packageId)
 {
-  var package_info = new Object();
+  var package_info = {};
   var number       = 1;
 
-  package_info.package_id = packageId
+  package_info.package_id = packageId;
   package_info.number     = number;
 
   Ajax.call('flow.php?step=add_package_to_cart', 'package_info=' + package_info.toJSONString(), addPackageToCartResponse, 'POST', 'JSON');
@@ -1025,14 +933,14 @@ function openSpeDiv(message, goods_id, parent)
 //获取选择属性后，再次提交到购物车
 function submit_div(goods_id, parentId) 
 {
-  var goods        = new Object();
-  var spec_arr     = new Array();
-  var fittings_arr = new Array();
+  var goods        = {};
+  var spec_arr     = [];
+  var fittings_arr = [];
   var number       = 1;
   var input_arr      = document.getElementsByTagName('input'); 
   var quick		   = 1;
 
-  var spec_arr = new Array();
+  var spec_arr = [];
   var j = 0;
 
   for (i = 0; i < input_arr.length; i ++ )

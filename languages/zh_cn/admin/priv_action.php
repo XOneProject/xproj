@@ -142,7 +142,6 @@ $_LANG['db_backup']    = '数据备份';
 $_LANG['db_renew']     = '数据恢复';
 $_LANG['db_optimize']  = '数据表优化';
 $_LANG['sql_query']    = 'SQL查询';
-$_LANG['convert']      = '转换数据';
 
 //短信管理
 $_LANG['my_info']         = '账号信息';

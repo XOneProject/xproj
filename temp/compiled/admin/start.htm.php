@@ -6,7 +6,7 @@
 </ul>
 <script type="Text/Javascript" language="JavaScript">
 <!--
-  Ajax.call('cloud.php?is_ajax=1&act=cloud_remind','', cloud_api, 'GET', 'JSON');
+
     function cloud_api(result)
     {
       //alert(result.content);
@@ -19,10 +19,7 @@
          document.getElementById("cloud_list").innerHTML =result.content;
       }
     } 
-   function cloud_close(id)
-    {
-      Ajax.call('cloud.php?is_ajax=1&act=close_remind&remind_id='+id,'', cloud_api, 'GET', 'JSON');
-    }
+
   //-->
  </script> 
 <ul id="lilist" style="padding:0; margin: 0; list-style-type:none; color: #CC0000;">
@@ -32,9 +29,8 @@
   <li class="Start315"><?php echo $this->_var['warning']; ?></li>
   <?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
 </ul>
-<ul style="padding:0; margin: 0; list-style-type:none; color: #CC0000;">
- <!-- <script type="text/javascript" src="http://bbs.ecshop.com/notice.php?v=1&n=8&f=ul"></script>-->
-</ul>
+
+
 <!-- directory install end -->
 <!-- start personal message -->
 <?php if ($this->_var['admin_msg']): ?>
@@ -234,9 +230,9 @@ onload = function()
 {
   /* 检查订单 */
   startCheckOrder();
-}
+};
   Ajax.call('index.php?is_ajax=1&act=main_api','', start_api, 'GET', 'TEXT','FLASE');
-  //Ajax.call('cloud.php?is_ajax=1&act=cloud_remind','', cloud_api, 'GET', 'JSON');
+
    function start_api(result)
     {
       apilist = document.getElementById("lilist").innerHTML;

@@ -80,7 +80,6 @@
      			{$shop_postcode}<br /> 
           		<!-- {/if} --> 
             </dd>
-            <dd><div align="center"><a href=" http://www.ecmoban.com" target="_blank"><img src="images/ecmoban.gif" alt="ECShop模板" /></a></div></dd>
             <dd class="mt10">
             	<a href="https://ss.cnnic.cn/verifyseal.dll?sn=2010091900100002234&amp;pa=2940051" tabindex="-1" id="urlknet" target="_blank"><img width="128" height="47" alt="可信网站" name="CNNIC_seal" border="true" src="http://img4.ddimg.cn/00012/2010/knetSealLogo.png" oncontextmenu="return false;" onclick="CNNIC_change('urlknet')"> </a>
             </dd>
