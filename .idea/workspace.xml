@@ -1,44 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="080ff1ac-0f58-44b6-9d02-8cb8bc01441c" name="Default" comment="rev2">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/cloud.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/convert.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/license.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/templates/convert_main.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/templates/license.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/zh_cn/admin/cloud.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/zh_cn/admin/convert.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/zh_cn/convert/shopex46.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/zh_cn/convert/shopex47.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/zh_cn/convert/shopex48.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/privilege_info.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/privilege_list.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/shop_config.htm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/shop_config_form.htm.php" afterPath="" />
+    <list default="true" id="080ff1ac-0f58-44b6-9d02-8cb8bc01441c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/static_caches/api_str.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/static_caches/cloud_remind.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/includes/inc_menu.php" afterPath="$PROJECT_DIR$/admin/includes/inc_menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/includes/inc_priv.php" afterPath="$PROJECT_DIR$/admin/includes/inc_priv.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/index.php" afterPath="$PROJECT_DIR$/admin/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/shop_config.php" afterPath="$PROJECT_DIR$/admin/shop_config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/index.htm" afterPath="$PROJECT_DIR$/admin/templates/index.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/menu.htm" afterPath="$PROJECT_DIR$/admin/templates/menu.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/start.htm" afterPath="$PROJECT_DIR$/admin/templates/start.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/top.htm" afterPath="$PROJECT_DIR$/admin/templates/top.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/config.php" afterPath="$PROJECT_DIR$/data/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/cls_ecshop.php" afterPath="$PROJECT_DIR$/includes/cls_ecshop.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/lib_main.php" afterPath="$PROJECT_DIR$/includes/lib_main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/common.js" afterPath="$PROJECT_DIR$/js/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/en_us/admin/priv_action.php" afterPath="$PROJECT_DIR$/languages/en_us/admin/priv_action.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/zh_cn/admin/common.php" afterPath="$PROJECT_DIR$/languages/zh_cn/admin/common.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/zh_cn/admin/index.php" afterPath="$PROJECT_DIR$/languages/zh_cn/admin/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/zh_cn/admin/priv_action.php" afterPath="$PROJECT_DIR$/languages/zh_cn/admin/priv_action.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/compiled/admin/start.htm.php" afterPath="$PROJECT_DIR$/temp/compiled/admin/start.htm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/static_caches/api_str.php" afterPath="$PROJECT_DIR$/temp/static_caches/api_str.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/static_caches/cloud_remind.php" afterPath="$PROJECT_DIR$/temp/static_caches/cloud_remind.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/static_caches/shop_config.php" afterPath="$PROJECT_DIR$/temp/static_caches/shop_config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/default/library/page_footer.lbi" afterPath="$PROJECT_DIR$/themes/default/library/page_footer.lbi" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ecmoban_benlai2015/library/page_footer.lbi" afterPath="$PROJECT_DIR$/themes/ecmoban_benlai2015/library/page_footer.lbi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ecmoban_benlai2015/index.dwt" afterPath="$PROJECT_DIR$/themes/ecmoban_benlai2015/index.dwt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ecmoban_benlai2015/library/page_header.lbi" afterPath="$PROJECT_DIR$/themes/ecmoban_benlai2015/library/page_header.lbi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ecmoban_benlai2015/style.css" afterPath="$PROJECT_DIR$/themes/ecmoban_benlai2015/style.css" />
     </list>
     <ignored path="fdy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,31 +30,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="common.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/languages/zh_cn/admin/common.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.7857144">
-              <caret line="286" column="22" selection-start-line="286" selection-start-column="22" selection-end-line="286" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="priv_action.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/languages/zh_cn/admin/priv_action.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.8275862">
-              <caret line="143" column="33" selection-start-line="143" selection-start-column="33" selection-end-line="143" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="top.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/templates/top.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.1551723">
-              <caret line="190" column="0" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+            <state vertical-scroll-proportion="-2.2931035">
+              <caret line="181" column="29" selection-start-line="181" selection-start-column="29" selection-end-line="181" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/languages/en_us/common.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.321429">
+              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+              <folding>
+                <marker date="1334114184000" expanded="true" signature="26533:26570" placeholder="..." />
+                <marker date="1334114184000" expanded="true" signature="26738:26752" placeholder="..." />
+                <marker date="1334114184000" expanded="true" signature="26903:26917" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/languages/zh_cn/common.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.0">
+              <caret line="52" column="17" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="17" />
+              <folding>
+                <marker date="1334114184000" expanded="true" signature="19410:19447" placeholder="..." />
+                <marker date="1334114184000" expanded="true" signature="19615:19629" placeholder="..." />
+                <marker date="1334114184000" expanded="true" signature="19780:19794" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page_header.lbi" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/page_header.lbi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="123" column="40" selection-start-line="123" selection-start-column="40" selection-end-line="123" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5268542">
+              <caret line="739" column="32" selection-start-line="739" selection-start-column="32" selection-end-line="739" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -100,10 +98,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28266665">
+            <state vertical-scroll-proportion="-1.8275862">
               <caret line="1064" column="5" selection-start-line="1064" selection-start-column="5" selection-end-line="1064" selection-end-column="5" />
               <folding>
                 <element signature="e#6#49#0#PHP" expanded="true" />
@@ -162,24 +160,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/templates/menu.htm">
+      <file leaf-file-name="check.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/js/check.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.1551723">
-              <caret line="408" column="0" selection-start-line="408" selection-start-column="0" selection-end-line="408" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="86" column="3" selection-start-line="86" selection-start-column="3" selection-end-line="86" selection-end-column="3" />
               <folding>
-                <marker date="1461135126270" expanded="true" signature="415:426" placeholder="..." />
+                <marker date="1334114182000" expanded="true" signature="3410:3719" placeholder="..." />
+                <marker date="1334114182000" expanded="true" signature="3516:3619" placeholder="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="start.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/templates/start.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.3139534">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -204,21 +193,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inc_priv.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/includes/inc_priv.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.1551723">
-              <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
-              <folding>
-                <element signature="e#7#499#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="magic1024" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -229,10 +211,8 @@
         <option value="$PROJECT_DIR$/admin/template.php" />
         <option value="$PROJECT_DIR$/temp/query_caches/sqlcache_config_file_94dc3f2ab7ee927f37b41eb824483ad0.php" />
         <option value="$PROJECT_DIR$/themes/ecmoban_benlai2015/index.dwt" />
-        <option value="$PROJECT_DIR$/themes/ecmoban_benlai2015/style.css" />
         <option value="$PROJECT_DIR$/includes/lib_main.php" />
         <option value="$PROJECT_DIR$/themes/ecmoban_benlai2015/library/page_footer.lbi" />
-        <option value="$PROJECT_DIR$/includes/cls_ecshop.php" />
         <option value="$PROJECT_DIR$/js/common.js" />
         <option value="$PROJECT_DIR$/admin/shop_config.php" />
         <option value="$PROJECT_DIR$/admin/templates/index.htm" />
@@ -247,6 +227,9 @@
         <option value="$PROJECT_DIR$/languages/en_us/admin/priv_action.php" />
         <option value="$PROJECT_DIR$/admin/templates/top.htm" />
         <option value="$PROJECT_DIR$/themes/default/library/page_footer.lbi" />
+        <option value="$PROJECT_DIR$/includes/cls_ecshop.php" />
+        <option value="$PROJECT_DIR$/themes/ecmoban_benlai2015/library/page_header.lbi" />
+        <option value="$PROJECT_DIR$/themes/ecmoban_benlai2015/style.css" />
       </list>
     </option>
   </component>
@@ -265,10 +248,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="113" />
-    <option name="y" value="27" />
-    <option name="width" value="1366" />
-    <option name="height" value="728" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -323,7 +306,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ecmoban_benlai2015" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -337,11 +324,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
+              <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
+              <option name="myItemId" value="ecmoban_benlai2015" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xproj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xproj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -420,23 +425,35 @@
       <option name="project" value="LOCAL" />
       <updated>1461116955004</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".">
+      <created>1461137457312</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1461137457312</updated>
+    </task>
+    <task id="LOCAL-00003" summary=".">
+      <created>1461138028897</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1461138028897</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="113" y="27" width="1366" height="728" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23307087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30222222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29868227" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24724409" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -461,7 +478,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rev2" />
-    <option name="LAST_COMMIT_MESSAGE" value="rev2" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -506,14 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39295393">
-          <caret line="1105" column="10" selection-start-line="1105" selection-start-column="10" selection-end-line="1105" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -576,28 +586,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/cls_ecshop.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.464286">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.3333335">
           <caret line="262" column="4" selection-start-line="262" selection-start-column="4" selection-end-line="262" selection-end-column="4" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1461133056178" expanded="true" signature="10912:11145" placeholder="..." />
-            <marker date="1461133056178" expanded="false" signature="10926:11136" placeholder="..." />
-            <marker date="1461133056178" expanded="true" signature="19839:19870" placeholder="..." />
-            <marker date="1461133056178" expanded="true" signature="19993:20020" placeholder="..." />
-            <marker date="1461133056178" expanded="true" signature="20033:20087" placeholder="..." />
-            <marker date="1461133056178" expanded="true" signature="20359:20376" placeholder="..." />
-            <marker date="1461133056178" expanded="true" signature="20807:20824" placeholder="..." />
-            <marker date="1461133056178" expanded="true" signature="21445:21462" placeholder="..." />
+            <marker date="1461137435175" expanded="true" signature="10889:11122" placeholder="..." />
+            <marker date="1461137435175" expanded="false" signature="10903:11113" placeholder="..." />
+            <marker date="1461137435175" expanded="true" signature="19764:19795" placeholder="..." />
+            <marker date="1461137435175" expanded="true" signature="19918:19945" placeholder="..." />
+            <marker date="1461137435175" expanded="true" signature="19958:20012" placeholder="..." />
+            <marker date="1461137435175" expanded="true" signature="20284:20301" placeholder="..." />
+            <marker date="1461137435175" expanded="true" signature="20732:20749" placeholder="..." />
+            <marker date="1461137435175" expanded="true" signature="21370:21387" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -638,7 +640,7 @@
         <state vertical-scroll-proportion="-2.1551723">
           <caret line="408" column="0" selection-start-line="408" selection-start-column="0" selection-end-line="408" selection-end-column="0" />
           <folding>
-            <marker date="1461135126270" expanded="true" signature="415:426" placeholder="..." />
+            <marker date="1461137435109" expanded="true" signature="415:426" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -693,14 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/templates/top.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.1551723">
-          <caret line="190" column="0" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/default/library/page_footer.lbi">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -711,7 +705,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28266665">
+        <state vertical-scroll-proportion="-1.8275862">
           <caret line="1064" column="5" selection-start-line="1064" selection-start-column="5" selection-end-line="1064" selection-end-column="5" />
           <folding>
             <element signature="e#6#49#0#PHP" expanded="true" />
@@ -766,6 +760,73 @@
             <marker date="1461133674537" expanded="true" signature="41865:41936" placeholder="DELETE FROM ..." />
             <marker date="1461133674537" expanded="true" signature="41995:42016" placeholder="SELECT COUNT..${$ecs-&gt;table('email_sendlist')}..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/cls_ecshop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.577236">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/js/check.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="3" selection-start-line="86" selection-start-column="3" selection-end-line="86" selection-end-column="3" />
+          <folding>
+            <marker date="1334114182000" expanded="true" signature="3410:3719" placeholder="..." />
+            <marker date="1334114182000" expanded="true" signature="3516:3619" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/top.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.2931035">
+          <caret line="181" column="29" selection-start-line="181" selection-start-column="29" selection-end-line="181" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/languages/en_us/common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.321429">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding>
+            <marker date="1334114184000" expanded="true" signature="26533:26570" placeholder="..." />
+            <marker date="1334114184000" expanded="true" signature="26738:26752" placeholder="..." />
+            <marker date="1334114184000" expanded="true" signature="26903:26917" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/languages/zh_cn/common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="52" column="17" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="17" />
+          <folding>
+            <marker date="1334114184000" expanded="true" signature="19410:19447" placeholder="..." />
+            <marker date="1334114184000" expanded="true" signature="19615:19629" placeholder="..." />
+            <marker date="1334114184000" expanded="true" signature="19780:19794" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/page_header.lbi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="123" column="40" selection-start-line="123" selection-start-column="40" selection-end-line="123" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5268542">
+          <caret line="739" column="32" selection-start-line="739" selection-start-column="32" selection-end-line="739" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>

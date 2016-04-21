@@ -118,9 +118,9 @@ catch (e) {
                 </a>
             </h1>
         </div>
-        <a class="head15_buy" id="ECS_CARTINFO" href="flow.php">
+        <!-- <a class="head15_buy" id="ECS_CARTINFO" href="flow.php">
             {insert name='cart_info'}
-        </a>
+        </a> --!>
         <a class="head15_my" href="user.php">
             
         </a>

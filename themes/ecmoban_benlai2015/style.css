@@ -733,9 +733,9 @@ ul.shoppingMes li.welcomeVjia .loginvjia {
     z-index: 59;
 	background:url(images/user_center_bg.jpg) no-repeat; width:125px; height:40px
 }
-.head15_search{float:right;margin:30px 45px 0px 0px;height:41px;width:470px;position:relative;z-index:49;}
-.head15_search .search_box{background-color:#91be16;padding:3px;_width:472px; display:inline-block}
-.head15_search .search_box input{width:367px;height:35px;border:none;padding:0px 10px;float:left;font:400 14px/35px "Microsoft YaHei";color:#3e4141;}
+.head15_search{float:right;margin:30px 45px 0px 0px;height:41px;width:60%;position:relative;z-index:49;}
+.head15_search .search_box{background-color:#91be16;padding:3px;width:100%; display:inline-block}
+.head15_search .search_box input{width:83%;height:35px;border:none;padding:0px 10px;float:left;font:400 14px/35px "Microsoft YaHei";color:#3e4141;}
 .head15_search .search_box button.sch_btn{height:35px;width:77px;*width:70px;background:url(images/n_top_ico.png) 0px -265px no-repeat;display:inline-block; border:none; cursor:pointer}
 .head15_search .search_word{position:absolute;top:-32px;left:0px;line-height:32px;height:32px;width:470px;overflow:hidden;}
 .head15_search .search_word em{margin:0px 25px 0px 0px;padding:0px;float:left;max-width:445px;}
