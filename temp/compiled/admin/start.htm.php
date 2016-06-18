@@ -22,7 +22,7 @@
 
   //-->
  </script> 
-<ul id="lilist" style="padding:0; margin: 0; list-style-type:none; color: #CC0000;">
+<ul id="lilist" style="display:none;padding:0; margin: 0; list-style-type:none; color: #CC0000;">
   <?php $_from = $this->_var['warning_arr']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'warning');if (count($_from)):
     foreach ($_from AS $this->_var['warning']):
 ?>
