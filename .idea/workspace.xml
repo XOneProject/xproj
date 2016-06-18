@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="080ff1ac-0f58-44b6-9d02-8cb8bc01441c" name="Default" comment=".">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="080ff1ac-0f58-44b6-9d02-8cb8bc01441c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/get_pwd.htm" afterPath="$PROJECT_DIR$/admin/templates/get_pwd.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/login.htm" afterPath="$PROJECT_DIR$/admin/templates/login.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/start.htm" afterPath="$PROJECT_DIR$/admin/templates/start.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/top.htm" afterPath="$PROJECT_DIR$/admin/templates/top.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/config.php" afterPath="$PROJECT_DIR$/data/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/zh_cn/admin/index.php" afterPath="$PROJECT_DIR$/languages/zh_cn/admin/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/zh_tw/admin/index.php" afterPath="$PROJECT_DIR$/languages/zh_tw/admin/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/compiled/admin/start.htm.php" afterPath="$PROJECT_DIR$/temp/compiled/admin/start.htm.php" />
     </list>
     <ignored path="fdy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5">
-              <caret line="733" column="40" selection-start-line="733" selection-start-column="40" selection-end-line="733" selection-end-column="40" />
+            <state vertical-scroll-proportion="-11.25">
+              <caret line="736" column="37" selection-start-line="736" selection-start-column="37" selection-end-line="736" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -147,14 +139,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="top.htm" pinned="false" current-in-tab="false">
+      <file leaf-file-name="top.htm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/admin/templates/top.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.4117646">
-              <caret line="196" column="73" selection-start-line="196" selection-start-column="73" selection-end-line="196" selection-end-column="85" />
+            <state vertical-scroll-proportion="0.21276596">
+              <caret line="196" column="46" selection-start-line="196" selection-start-column="46" selection-end-line="196" selection-end-column="46" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -220,8 +211,8 @@
         <option value="$PROJECT_DIR$/admin/templates/start.htm" />
         <option value="$PROJECT_DIR$/admin/templates/get_pwd.htm" />
         <option value="$PROJECT_DIR$/admin/templates/login.htm" />
-        <option value="$PROJECT_DIR$/admin/templates/top.htm" />
         <option value="$PROJECT_DIR$/themes/ecmoban_benlai2015/style.css" />
+        <option value="$PROJECT_DIR$/admin/templates/top.htm" />
       </list>
     </option>
   </component>
@@ -419,7 +410,13 @@
       <option name="project" value="LOCAL" />
       <updated>1461221096037</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".">
+      <created>1466241385214</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1466241385214</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -428,6 +425,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30763888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3197832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -438,7 +436,6 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -880,17 +877,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/templates/top.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.4117646">
-          <caret line="196" column="73" selection-start-line="196" selection-start-column="73" selection-end-line="196" selection-end-column="85" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/page_header.lbi">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -901,9 +887,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5">
-          <caret line="733" column="40" selection-start-line="733" selection-start-column="40" selection-end-line="733" selection-end-column="40" />
+        <state vertical-scroll-proportion="-11.25">
+          <caret line="736" column="37" selection-start-line="736" selection-start-column="37" selection-end-line="736" selection-end-column="37" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/top.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21276596">
+          <caret line="196" column="46" selection-start-line="196" selection-start-column="46" selection-end-line="196" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
