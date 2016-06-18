@@ -72,14 +72,14 @@ catch (e) {
             <li style="border:none" class="menuPopup"  onMouseOver="sw_nav(1,1);" onMouseOut="sw_nav(1,0);">
             	<a id="HandleLI_1" href="javascript:;" title="微博" class="attention"></a> 
             	<div id=DisSub_1 class="top_nav_box  top_weibo"> 
-            		<a href="http://e.weibo.com/ECMBT" target="_blank" title="新浪微博" class="top_weibo"></a>
-            		<a href="http://e.t.qq.com/ecmoban_com" target="_blank" title="QQ微博" class="top_qq"></a> 
+            		<a href="http://e.weibo.com/" target="_blank" title="新浪微博" class="top_weibo"></a>
+            		<a href="http://e.t.qq.com/" target="_blank" title="QQ微博" class="top_qq"></a>
             	</div> 
             </li> 
             <li class="menuPopup" onMouseOver="sw_nav(2,1);" onMouseOut="sw_nav(2,0);">
             	<a id="HandleLI_2" href="javascript:;" title="微信" class="top_weixin"></a> 
             	<div id="DisSub_2" class="weixinBox" style="display: none;"> 		
-            		<img src="../images/weixin.png" style="width:150px; height:190px;  background:#0000CC" width="150" height="190"> 
+            		<img src="../images/weixin1.png" style="width:150px; height:190px;  background:#0000CC" width="150" height="190">
             	</div> 
             </li>
         </ul>

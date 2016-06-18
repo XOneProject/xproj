@@ -2,45 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="080ff1ac-0f58-44b6-9d02-8cb8bc01441c" name="Default" comment=".">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/afficheimg/1413916122102071507.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/afficheimg/20150608boezpt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/afficheimg/20150608dnsqhz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/afficheimg/20150608gbzqox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/afficheimg/20150608tunmwb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/afficheimg/20150805jnzrsi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/afficheimg/20150805nynpii.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/afficheimg/20150807dmxgjf.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/afficheimg/20150807hcvate.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/afficheimg/20150807pyxphq.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/afficheimg/20150807xipgbm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/afficheimg/20150807zsfmdr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/afficheimg/20151023xwzcqq.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecmoban_qq/images/msn.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecmoban_qq/images/qq_1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecmoban_qq/images/qq_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecmoban_qq/images/siderIM_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecmoban_qq/images/siderIM_bottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecmoban_qq/images/siderIM_infobox.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecmoban_qq/images/siderIM_title.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/flash_data.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecmoban_qq/ServiceQQ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecmoban_qq/images/qq.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/caches/f/index_40F756F0.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/category_tree_index.lbi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/help.lbi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/index.dwt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/index_ad.lbi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/member_info.lbi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/page_footer.lbi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/page_header.lbi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/recommend_hot.lbi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/static_caches/api_str.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/static_caches/cat_option_static.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/static_caches/cat_pid_releate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/static_caches/recommend_goods.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/start.htm.php" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ecmoban_benlai2015/library/member_info.lbi" afterPath="$PROJECT_DIR$/themes/ecmoban_benlai2015/library/member_info.lbi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ecmoban_benlai2015/library/page_header.lbi" afterPath="$PROJECT_DIR$/themes/ecmoban_benlai2015/library/page_header.lbi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/config.php" afterPath="$PROJECT_DIR$/data/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/xproj.iml" afterPath="$PROJECT_DIR$/.idea/xproj.iml" />
     </list>
     <ignored path="fdy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,26 +27,19 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="fdy" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="top.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/templates/top.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="181" column="29" selection-start-line="181" selection-start-column="29" selection-end-line="181" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file leaf-file-name="common.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/languages/en_us/common.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="10860">
               <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
               <folding />
             </state>
@@ -85,7 +49,7 @@
       <file leaf-file-name="common.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/languages/zh_cn/common.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="10845">
               <caret line="52" column="17" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="17" />
               <folding />
             </state>
@@ -95,8 +59,18 @@
       <file leaf-file-name="page_header.lbi" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/page_header.lbi">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="123" column="40" selection-start-line="123" selection-start-column="40" selection-end-line="123" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="2865">
+              <caret line="68" column="98" selection-start-line="68" selection-start-column="98" selection-end-line="68" selection-end-column="98" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="member_info.lbi" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/member_info.lbi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.19650654" vertical-offset="0" max-vertical-offset="687">
+              <caret line="9" column="77" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -105,18 +79,18 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.0" vertical-offset="11085" max-vertical-offset="42945">
               <caret line="739" column="32" selection-start-line="739" selection-start-column="32" selection-end-line="739" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.dwt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.dwt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/index.dwt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.5744186">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1485">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -125,7 +99,7 @@
       <file leaf-file-name="index_ad.lbi" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/index_ad.lbi">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1095" max-vertical-offset="3120">
               <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding />
             </state>
@@ -135,7 +109,7 @@
       <file leaf-file-name="recommend_hot.lbi" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/recommend_hot.lbi">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="540">
               <caret line="1" column="19" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="19" />
               <folding />
             </state>
@@ -145,7 +119,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="2010">
               <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
               <folding />
             </state>
@@ -155,7 +129,7 @@
       <file leaf-file-name="libs.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/libs.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2280" max-vertical-offset="3585">
               <caret line="152" column="30" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="30" />
               <folding />
             </state>
@@ -163,6 +137,11 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -178,40 +157,16 @@
     </option>
   </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
+    <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/activity.php" />
-        <option value="$PROJECT_DIR$/includes/cls_template.php" />
-        <option value="$PROJECT_DIR$/admin/template.php" />
-        <option value="$PROJECT_DIR$/temp/query_caches/sqlcache_config_file_94dc3f2ab7ee927f37b41eb824483ad0.php" />
-        <option value="$PROJECT_DIR$/includes/lib_main.php" />
-        <option value="$PROJECT_DIR$/themes/ecmoban_benlai2015/library/page_footer.lbi" />
-        <option value="$PROJECT_DIR$/js/common.js" />
-        <option value="$PROJECT_DIR$/admin/shop_config.php" />
-        <option value="$PROJECT_DIR$/admin/templates/index.htm" />
-        <option value="$PROJECT_DIR$/admin/index.php" />
-        <option value="$PROJECT_DIR$/languages/zh_cn/admin/common.php" />
-        <option value="$PROJECT_DIR$/languages/zh_cn/admin/index.php" />
-        <option value="$PROJECT_DIR$/admin/templates/menu.htm" />
-        <option value="$PROJECT_DIR$/admin/templates/start.htm" />
-        <option value="$PROJECT_DIR$/admin/includes/inc_priv.php" />
-        <option value="$PROJECT_DIR$/languages/zh_cn/admin/priv_action.php" />
-        <option value="$PROJECT_DIR$/admin/includes/inc_menu.php" />
-        <option value="$PROJECT_DIR$/languages/en_us/admin/priv_action.php" />
-        <option value="$PROJECT_DIR$/admin/templates/top.htm" />
-        <option value="$PROJECT_DIR$/themes/default/library/page_footer.lbi" />
-        <option value="$PROJECT_DIR$/includes/cls_ecshop.php" />
-        <option value="$PROJECT_DIR$/themes/ecmoban_benlai2015/library/page_header.lbi" />
-        <option value="$PROJECT_DIR$/themes/ecmoban_benlai2015/style.css" />
         <option value="$PROJECT_DIR$/themes/ecmoban_benlai2015/index.dwt" />
+        <option value="$PROJECT_DIR$/themes/ecmoban_benlai2015/library/page_header.lbi" />
+        <option value="$PROJECT_DIR$/themes/ecmoban_benlai2015/library/member_info.lbi" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-  </component>
   <component name="PhpServers">
     <servers />
   </component>
@@ -222,10 +177,9 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="807" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -236,6 +190,9 @@
     <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -248,8 +205,6 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="ProjectPane">
@@ -267,6 +222,60 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="xproj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xproj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xproj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ecmoban_benlai2015" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xproj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xproj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ecmoban_benlai2015" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xproj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xproj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -299,34 +308,32 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
-      <arguments />
+      <pass-parent-env-vars>false</pass-parent-env-vars>
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <envs />
-      <method />
-    </configuration>
+    <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -367,28 +374,30 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="807" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29721814" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23307087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.73070866" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7303523" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29652777" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23306233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -403,6 +412,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
     <MESSAGE value="rev2" />
     <MESSAGE value="." />
     <option name="LAST_COMMIT_MESSAGE" value="." />
@@ -416,7 +428,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="739" column="32" selection-start-line="739" selection-start-column="32" selection-end-line="739" selection-end-column="32" />
           <folding />
         </state>
@@ -424,7 +436,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/index.dwt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -432,7 +444,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/index_ad.lbi">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding />
         </state>
@@ -440,7 +452,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/recommend_hot.lbi">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="1" column="19" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="19" />
           <folding />
         </state>
@@ -448,7 +460,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
           <folding />
         </state>
@@ -456,7 +468,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/libs.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="152" column="30" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="30" />
           <folding />
         </state>
@@ -464,7 +476,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/templates/top.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="181" column="29" selection-start-line="181" selection-start-column="29" selection-end-line="181" selection-end-column="29" />
           <folding />
         </state>
@@ -472,7 +484,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/languages/en_us/common.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding />
         </state>
@@ -480,7 +492,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/languages/zh_cn/common.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="52" column="17" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="17" />
           <folding />
         </state>
@@ -488,7 +500,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/page_header.lbi">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="123" column="40" selection-start-line="123" selection-start-column="40" selection-end-line="123" selection-end-column="40" />
           <folding />
         </state>
@@ -496,7 +508,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="739" column="32" selection-start-line="739" selection-start-column="32" selection-end-line="739" selection-end-column="32" />
           <folding />
         </state>
@@ -504,7 +516,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/index.dwt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -512,7 +524,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/index_ad.lbi">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding />
         </state>
@@ -520,7 +532,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/recommend_hot.lbi">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="1" column="19" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="19" />
           <folding />
         </state>
@@ -528,7 +540,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
           <folding />
         </state>
@@ -536,7 +548,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/libs.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="152" column="30" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="30" />
           <folding />
         </state>
@@ -544,182 +556,175 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myship.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="231" column="22" selection-start-line="231" selection-start-column="22" selection-end-line="231" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="231" column="22" selection-start-line="231" selection-start-column="22" selection-end-line="231" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_8.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="30.928572">
+        <state vertical-scroll-proportion="30.928572" vertical-offset="0" max-vertical-offset="0">
           <caret line="280" column="13" selection-start-line="280" selection-start-column="13" selection-end-line="280" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../phpinfo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.1057935">
+        <state vertical-scroll-proportion="-1.1057935" vertical-offset="0" max-vertical-offset="0">
           <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myship.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15447155">
+        <state vertical-scroll-proportion="0.15447155" vertical-offset="0" max-vertical-offset="0">
           <caret line="80" column="1" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/category_tree_index.lbi">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/lib_main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.913793">
+        <state vertical-scroll-proportion="-3.913793" vertical-offset="0" max-vertical-offset="0">
           <caret line="161" column="20" selection-start-line="161" selection-start-column="20" selection-end-line="161" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/page_footer.lbi">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.8">
+        <state vertical-scroll-proportion="-2.8" vertical-offset="0" max-vertical-offset="0">
           <caret line="77" column="31" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.3333335">
+        <state vertical-scroll-proportion="-6.3333335" vertical-offset="0" max-vertical-offset="0">
           <caret line="262" column="4" selection-start-line="262" selection-start-column="4" selection-end-line="262" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/shop_config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.913793">
+        <state vertical-scroll-proportion="-3.913793" vertical-offset="0" max-vertical-offset="0">
           <caret line="242" column="30" selection-start-line="242" selection-start-column="30" selection-end-line="242" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/templates/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.39534885">
+        <state vertical-scroll-proportion="-0.39534885" vertical-offset="0" max-vertical-offset="0">
           <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/languages/zh_cn/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-35.392857">
+        <state vertical-scroll-proportion="-35.392857" vertical-offset="0" max-vertical-offset="0">
           <caret line="208" column="2" selection-start-line="208" selection-start-column="2" selection-end-line="208" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/templates/menu.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.1551723">
+        <state vertical-scroll-proportion="-2.1551723" vertical-offset="0" max-vertical-offset="0">
           <caret line="408" column="0" selection-start-line="408" selection-start-column="0" selection-end-line="408" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/templates/start.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3139534">
+        <state vertical-scroll-proportion="-3.3139534" vertical-offset="0" max-vertical-offset="0">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/includes/inc_priv.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.1551723">
+        <state vertical-scroll-proportion="-2.1551723" vertical-offset="0" max-vertical-offset="0">
           <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/languages/zh_cn/admin/priv_action.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8275862">
+        <state vertical-scroll-proportion="-1.8275862" vertical-offset="0" max-vertical-offset="0">
           <caret line="143" column="33" selection-start-line="143" selection-start-column="33" selection-end-line="143" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/languages/zh_cn/admin/common.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7857144">
+        <state vertical-scroll-proportion="-2.7857144" vertical-offset="0" max-vertical-offset="0">
           <caret line="286" column="22" selection-start-line="286" selection-start-column="22" selection-end-line="286" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/includes/inc_menu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.821429">
+        <state vertical-scroll-proportion="-4.821429" vertical-offset="0" max-vertical-offset="0">
           <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/languages/en_us/admin/priv_action.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.142857">
+        <state vertical-scroll-proportion="-5.142857" vertical-offset="0" max-vertical-offset="0">
           <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/default/library/page_footer.lbi">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="63" column="6" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8275862">
+        <state vertical-scroll-proportion="-1.8275862" vertical-offset="0" max-vertical-offset="0">
           <caret line="1064" column="5" selection-start-line="1064" selection-start-column="5" selection-end-line="1064" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/cls_ecshop.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.577236">
+        <state vertical-scroll-proportion="-8.577236" vertical-offset="0" max-vertical-offset="0">
           <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/js/check.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="86" column="3" selection-start-line="86" selection-start-column="3" selection-end-line="86" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/templates/top.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="181" column="29" selection-start-line="181" selection-start-column="29" selection-end-line="181" selection-end-column="29" />
           <folding />
         </state>
@@ -727,7 +732,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/languages/en_us/common.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding />
         </state>
@@ -735,23 +740,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/languages/zh_cn/common.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="52" column="17" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/page_header.lbi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="123" column="40" selection-start-line="123" selection-start-column="40" selection-end-line="123" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="739" column="32" selection-start-line="739" selection-start-column="32" selection-end-line="739" selection-end-column="32" />
           <folding />
         </state>
@@ -759,7 +756,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/libs.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="152" column="30" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="30" />
           <folding />
         </state>
@@ -767,7 +764,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/recommend_hot.lbi">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="1" column="19" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="19" />
           <folding />
         </state>
@@ -775,7 +772,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
           <folding />
         </state>
@@ -783,7 +780,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/index_ad.lbi">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding />
         </state>
@@ -791,11 +788,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/index.dwt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.5744186">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1485">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/page_header.lbi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="2865">
+          <caret line="68" column="98" selection-start-line="68" selection-start-column="98" selection-end-line="68" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/member_info.lbi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19650654" vertical-offset="0" max-vertical-offset="687">
+          <caret line="9" column="77" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
           <folding />
         </state>
       </provider>
     </entry>
   </component>
 </project>
+
