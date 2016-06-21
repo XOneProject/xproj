@@ -12,7 +12,7 @@
 .slider2{width:2000px;}
 .slider2 li{float:left;}
 
-.num{ position:absolute; right:5px; bottom:5px; width:800px; margin:0 auto;}
+.num{ position:absolute; right:5px; bottom:5px; width:12%; margin:0 auto;}
 .num li{
 	float: left;
 	color: #fa0;

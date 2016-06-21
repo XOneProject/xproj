@@ -1,9 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="080ff1ac-0f58-44b6-9d02-8cb8bc01441c" name="Default" comment="">
+    <list default="true" id="080ff1ac-0f58-44b6-9d02-8cb8bc01441c" name="Default" comment=".">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/10_G_1466495193283.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/10_P_1466495193674.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/1_G_1466494369548.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/1_P_1466494369210.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/2_G_1466495624664.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/2_P_1466495624432.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/3_G_1466495159956.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/3_P_1466495159797.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/4_G_1466494200595.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/4_P_1466492766785.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/4_P_1466494200127.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/5_G_1466494398539.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/5_P_1466494398829.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/6_G_1466494414651.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/6_P_1466494414494.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/7_G_1466494427517.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/7_P_1466494427591.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/8_G_1466494484946.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/8_P_1466494484679.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/9_G_1466494538284.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/goods_img/9_P_1466494538122.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/10_G_1466495193715.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/10_P_1466495193332.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/1_G_1466494369277.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/1_P_1466494369515.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/2_G_1466495624382.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/2_P_1466495624043.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/3_G_1466495159667.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/3_P_1466495159647.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/4_G_1466494200682.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/4_P_1466492766526.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/4_P_1466494200215.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/5_G_1466494398091.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/5_P_1466494398212.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/6_G_1466494414595.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/6_P_1466494414603.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/7_G_1466494427334.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/7_P_1466494427176.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/8_G_1466494484628.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/8_P_1466494484950.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/9_G_1466494538402.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/source_img/9_P_1466494538760.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/10_thumb_G_1466495193363.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/10_thumb_P_1466495193933.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/1_thumb_G_1466494369329.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/1_thumb_P_1466494369514.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/2_thumb_G_1466495624872.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/2_thumb_P_1466495624298.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/3_thumb_G_1466495159760.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/3_thumb_P_1466495159227.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/4_thumb_G_1466494200846.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/4_thumb_P_1466492766102.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/4_thumb_P_1466494201144.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/5_thumb_G_1466494398615.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/5_thumb_P_1466494398538.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/6_thumb_G_1466494414587.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/6_thumb_P_1466494414085.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/7_thumb_G_1466494427486.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/7_thumb_P_1466494427711.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/8_thumb_G_1466494484665.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/8_thumb_P_1466494484267.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/9_thumb_G_1466494538829.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/201606/thumb_img/9_thumb_P_1466494538139.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/caches/8/goods_592602F3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/caches/f/index_40F756F0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/admin/picture_batch.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/bought_goods.lbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/cat_goods.lbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/category_tree.lbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/category_tree_index.lbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/comments.lbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/comments_list.lbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/goods.dwt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/goods_gallery.lbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/goods_related.lbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/goods_tags.lbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/help.lbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/history.lbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/index.dwt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/index_ad.lbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/member_info.lbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/page_footer.lbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/page_header.lbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/recommend_hot.lbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/compiled/ur_here.lbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/static_caches/cat_option_static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/static_caches/cat_pid_releate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/static_caches/recommend_goods.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/afficheimg/20150608boezpt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/afficheimg/20150608dnsqhz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/afficheimg/20150608gbzqox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/afficheimg/20150608tunmwb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/afficheimg/20150805nynpii.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/afficheimg/20150807zsfmdr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/start.htm.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ecmoban_benlai2015/images/user_center_bg.jpg" afterPath="$PROJECT_DIR$/themes/ecmoban_benlai2015/images/user_center_bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/top.htm" afterPath="$PROJECT_DIR$/admin/templates/top.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/config.php" afterPath="$PROJECT_DIR$/data/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/flash_data.xml" afterPath="$PROJECT_DIR$/data/flash_data.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/flashdata/default/data.xml" afterPath="$PROJECT_DIR$/data/flashdata/default/data.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/flashdata/dynfocus/data.js" afterPath="$PROJECT_DIR$/data/flashdata/dynfocus/data.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/flashdata/pinkfocus/data.js" afterPath="$PROJECT_DIR$/data/flashdata/pinkfocus/data.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/static_caches/shop_config.php" afterPath="$PROJECT_DIR$/temp/static_caches/shop_config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ecmoban_benlai2015/index.dwt" afterPath="$PROJECT_DIR$/themes/ecmoban_benlai2015/index.dwt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ecmoban_benlai2015/library/index_ad.lbi" afterPath="$PROJECT_DIR$/themes/ecmoban_benlai2015/library/index_ad.lbi" />
     </list>
     <ignored path="fdy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,22 +132,9 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25">
+            <state vertical-scroll-proportion="0.0">
               <caret line="736" column="37" selection-start-line="736" selection-start-column="37" selection-end-line="736" selection-end-column="37" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lib_auto_installer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/install/includes/lib_auto_installer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.333333">
-              <caret line="720" column="5" selection-start-line="720" selection-start-column="5" selection-end-line="720" selection-end-column="5" />
-              <folding>
-                <marker date="1466225943000" expanded="true" signature="11919:12167" placeholder="INSERT INTO ${$prefix}admin_user..." />
-                <marker date="1466225943000" expanded="true" signature="20995:21070" placeholder="SELECT value..${$ecs-&gt;table('shop_config')}..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -61,7 +152,7 @@
       <file leaf-file-name="index.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/templates/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.5">
+            <state vertical-scroll-proportion="0.0">
               <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
               <folding />
             </state>
@@ -71,60 +162,9 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-646.25">
+            <state vertical-scroll-proportion="0.0">
               <caret line="1064" column="5" selection-start-line="1064" selection-start-column="5" selection-end-line="1064" selection-end-column="5" />
-              <folding>
-                <marker date="1466225942000" expanded="true" signature="666:768" placeholder="SELECT nav_l..${$ecs-&gt;table('admin_user')}..." />
-                <marker date="1466225942000" expanded="true" signature="8584:8650" placeholder="SELECT COUNT..${$ecs-&gt;table('order_info')}..." />
-                <marker date="1466225942000" expanded="true" signature="9216:9281" placeholder="SELECT COUNT..${$ecs-&gt;table('order_info')}..." />
-                <marker date="1466225942000" expanded="true" signature="9427:9507" placeholder="SELECT COUNT..${$ecs-&gt;table('order_info')}..." />
-                <marker date="1466225942000" expanded="true" signature="9928:10037" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-                <marker date="1466225942000" expanded="true" signature="10083:10226" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-                <marker date="1466225942000" expanded="true" signature="10268:10370" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-                <marker date="1466225942000" expanded="true" signature="10418:10554" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-                <marker date="1466225942000" expanded="true" signature="10596:10699" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-                <marker date="1466225942000" expanded="true" signature="10747:10884" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-                <marker date="1466225942000" expanded="true" signature="10926:11028" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-                <marker date="1466225942000" expanded="true" signature="11076:11212" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-                <marker date="1466225942000" expanded="true" signature="11288:11470" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-                <marker date="1466225942000" expanded="true" signature="11518:11732" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-                <marker date="1466225942000" expanded="true" signature="11804:11919" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-                <marker date="1466225942000" expanded="true" signature="11982:12131" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-                <marker date="1466225942000" expanded="true" signature="12429:12501" placeholder="SELECT COUNT..${$ecs-&gt;table('stats')}..." />
-                <marker date="1466225942000" expanded="true" signature="13132:13222" placeholder="SELECT COUNT..${$ecs-&gt;table('comment')}..." />
-                <marker date="1466225942000" expanded="true" signature="14986:15064" placeholder="SELECT COUNT..${$ecs-&gt;table('booking_goods')}..." />
-                <marker date="1466225942000" expanded="true" signature="15131:15247" placeholder="SELECT COUNT..${$ecs-&gt;table('user_account')}..." />
-                <marker date="1466225942000" expanded="true" signature="16351:16460" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-                <marker date="1466225942000" expanded="true" signature="16579:16600" placeholder="SELECT COUNT..${$ecs-&gt;table('users')}..." />
-                <marker date="1466225942000" expanded="true" signature="16664:16742" placeholder="SELECT value..${$ecs-&gt;table('shop_config')}..." />
-                <marker date="1466225942000" expanded="true" signature="16776:16855" placeholder="SELECT value..${$ecs-&gt;table('shop_config')}..." />
-                <marker date="1466225942000" expanded="true" signature="18015:18090" placeholder="SELECT value..${$ecs-&gt;table('shop_config')}..." />
-                <marker date="1466225942000" expanded="true" signature="18189:18265" placeholder="SELECT value..${$ecs-&gt;table('shop_config')}..." />
-                <marker date="1466225942000" expanded="true" signature="22698:22785" placeholder="SELECT shipp..${$ecs-&gt;table('shipping')}..." />
-                <marker date="1466225942000" expanded="true" signature="22971:23357" placeholder="INSERT INTO ${$ecs-&gt;table('shipping')}..." />
-                <marker date="1466225942000" expanded="true" signature="23600:23744" placeholder="SELECT shipp..${$ecs-&gt;table(&quot;shipping_area&quot;)}..." />
-                <marker date="1466225942000" expanded="true" signature="24551:24749" placeholder="INSERT INTO ${$ecs-&gt;table('shipping_area')}..." />
-                <marker date="1466225942000" expanded="true" signature="26233:26312" placeholder="SELECT COUNT..${$ecs-&gt;table('payment')}..." />
-                <marker date="1466225942000" expanded="true" signature="26990:27250" placeholder="INSERT INTO ${$ecs-&gt;table('payment')}..." />
-                <marker date="1466225942000" expanded="true" signature="29020:29130" placeholder="INSERT INTO ${$ecs-&gt;table('brand')}..." />
-                <marker date="1466225942000" expanded="true" signature="29258:29388" placeholder="INSERT INTO ${$ecs-&gt;table('category')}..." />
-                <marker date="1466225942000" expanded="true" signature="29577:29607" placeholder="SELECT MAX(g..${$ecs-&gt;table('goods')}..." />
-                <marker date="1466225942000" expanded="true" signature="36015:36539" placeholder="INSERT INTO ${$ecs-&gt;table('goods')}..." />
-                <marker date="1466225942000" expanded="true" signature="36760:36957" placeholder="INSERT INTO ${$ecs-&gt;table('goods_gallery')}..." />
-                <marker date="1466225942000" expanded="true" signature="37992:38091" placeholder="SELECT COUNT..${$ecs-&gt;table('order_info')}..." />
-                <marker date="1466225942000" expanded="true" signature="38168:38242" placeholder="SELECT COUNT..${$ecs-&gt;table('order_info')}..." />
-                <marker date="1466225942000" expanded="true" signature="39012:39092" placeholder="SELECT todol..${$GLOBALS['ecs']-&gt;table('admin_user')}..." />
-                <marker date="1466225942000" expanded="true" signature="39376:39468" placeholder="SELECT * FRO..${$ecs-&gt;table('email_sendlist')}..." />
-                <marker date="1466225942000" expanded="true" signature="39708:39779" placeholder="DELETE FROM ..." />
-                <marker date="1466225942000" expanded="true" signature="39838:39859" placeholder="SELECT COUNT..${$ecs-&gt;table('email_sendlist')}..." />
-                <marker date="1466225942000" expanded="true" signature="40021:40112" placeholder="SELECT * FRO..${$ecs-&gt;table('mail_templates')}..." />
-                <marker date="1466225942000" expanded="true" signature="40571:40642" placeholder="DELETE FROM ..." />
-                <marker date="1466225942000" expanded="true" signature="40730:40751" placeholder="SELECT COUNT..${$ecs-&gt;table('email_sendlist')}..." />
-                <marker date="1466225942000" expanded="true" signature="41482:41553" placeholder="DELETE FROM ..." />
-                <marker date="1466225942000" expanded="true" signature="41635:41656" placeholder="SELECT COUNT..${$ecs-&gt;table('email_sendlist')}..." />
-                <marker date="1466225942000" expanded="true" signature="41865:41936" placeholder="DELETE FROM ..." />
-                <marker date="1466225942000" expanded="true" signature="41995:42016" placeholder="SELECT COUNT..${$ecs-&gt;table('email_sendlist')}..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -132,18 +172,28 @@
       <file leaf-file-name="topic_edit.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/templates/topic_edit.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="top.htm" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index_ad.lbi" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/index_ad.lbi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.18829517">
+              <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="top.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/templates/top.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.68085104">
-              <caret line="196" column="45" selection-start-line="196" selection-start-column="45" selection-end-line="196" selection-end-column="45" />
+            <state vertical-scroll-proportion="-5.535714">
+              <caret line="190" column="0" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -154,7 +204,7 @@
       <file leaf-file-name="start.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/templates/start.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.333333">
+            <state vertical-scroll-proportion="0.0">
               <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#ul#1;n#!!top" expanded="true" />
@@ -166,7 +216,7 @@
       <file leaf-file-name="get_pwd.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/templates/get_pwd.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25">
+            <state vertical-scroll-proportion="0.0">
               <caret line="68" column="88" selection-start-line="68" selection-start-column="88" selection-end-line="68" selection-end-column="88" />
               <folding />
             </state>
@@ -176,7 +226,7 @@
       <file leaf-file-name="login.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/templates/login.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.333333">
+            <state vertical-scroll-proportion="0.0">
               <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
               <folding />
             </state>
@@ -213,6 +263,7 @@
         <option value="$PROJECT_DIR$/admin/templates/login.htm" />
         <option value="$PROJECT_DIR$/themes/ecmoban_benlai2015/style.css" />
         <option value="$PROJECT_DIR$/admin/templates/top.htm" />
+        <option value="$PROJECT_DIR$/themes/ecmoban_benlai2015/library/index_ad.lbi" />
       </list>
     </option>
   </component>
@@ -231,10 +282,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="68" />
-    <option name="y" value="171" />
-    <option name="width" value="1440" />
-    <option name="height" value="807" />
+    <option name="width" value="1366" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -264,7 +313,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -318,6 +366,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -357,7 +406,7 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="2af6558a-db2b-4960-b8e0-db9edaf24294" server_name="xproj">
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -426,22 +475,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="68" y="171" width="1440" height="807" extended-state="0" />
+    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30763888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3074074" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3197832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23306233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31825525" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23263328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -711,14 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/index_ad.lbi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/index.dwt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -731,7 +772,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -744,7 +784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.458333">
           <caret line="100" column="37" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -752,24 +791,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3511111">
           <caret line="97" column="25" selection-start-line="97" selection-start-column="25" selection-end-line="97" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/install/includes/lib_auto_installer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.333333">
+        <state vertical-scroll-proportion="0.0">
           <caret line="720" column="5" selection-start-line="720" selection-start-column="5" selection-end-line="720" selection-end-column="5" />
-          <folding>
-            <marker date="1466225943000" expanded="true" signature="11919:12167" placeholder="INSERT INTO ${$prefix}admin_user..." />
-            <marker date="1466225943000" expanded="true" signature="20995:21070" placeholder="SELECT value..${$ecs-&gt;table('shop_config')}..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/templates/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.5">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
           <folding />
         </state>
@@ -777,60 +812,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-646.25">
+        <state vertical-scroll-proportion="0.0">
           <caret line="1064" column="5" selection-start-line="1064" selection-start-column="5" selection-end-line="1064" selection-end-column="5" />
-          <folding>
-            <marker date="1466225942000" expanded="true" signature="666:768" placeholder="SELECT nav_l..${$ecs-&gt;table('admin_user')}..." />
-            <marker date="1466225942000" expanded="true" signature="8584:8650" placeholder="SELECT COUNT..${$ecs-&gt;table('order_info')}..." />
-            <marker date="1466225942000" expanded="true" signature="9216:9281" placeholder="SELECT COUNT..${$ecs-&gt;table('order_info')}..." />
-            <marker date="1466225942000" expanded="true" signature="9427:9507" placeholder="SELECT COUNT..${$ecs-&gt;table('order_info')}..." />
-            <marker date="1466225942000" expanded="true" signature="9928:10037" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-            <marker date="1466225942000" expanded="true" signature="10083:10226" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-            <marker date="1466225942000" expanded="true" signature="10268:10370" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-            <marker date="1466225942000" expanded="true" signature="10418:10554" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-            <marker date="1466225942000" expanded="true" signature="10596:10699" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-            <marker date="1466225942000" expanded="true" signature="10747:10884" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-            <marker date="1466225942000" expanded="true" signature="10926:11028" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-            <marker date="1466225942000" expanded="true" signature="11076:11212" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-            <marker date="1466225942000" expanded="true" signature="11288:11470" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-            <marker date="1466225942000" expanded="true" signature="11518:11732" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-            <marker date="1466225942000" expanded="true" signature="11804:11919" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-            <marker date="1466225942000" expanded="true" signature="11982:12131" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-            <marker date="1466225942000" expanded="true" signature="12429:12501" placeholder="SELECT COUNT..${$ecs-&gt;table('stats')}..." />
-            <marker date="1466225942000" expanded="true" signature="13132:13222" placeholder="SELECT COUNT..${$ecs-&gt;table('comment')}..." />
-            <marker date="1466225942000" expanded="true" signature="14986:15064" placeholder="SELECT COUNT..${$ecs-&gt;table('booking_goods')}..." />
-            <marker date="1466225942000" expanded="true" signature="15131:15247" placeholder="SELECT COUNT..${$ecs-&gt;table('user_account')}..." />
-            <marker date="1466225942000" expanded="true" signature="16351:16460" placeholder="SELECT COUNT..${$ecs-&gt;table('goods')}..." />
-            <marker date="1466225942000" expanded="true" signature="16579:16600" placeholder="SELECT COUNT..${$ecs-&gt;table('users')}..." />
-            <marker date="1466225942000" expanded="true" signature="16664:16742" placeholder="SELECT value..${$ecs-&gt;table('shop_config')}..." />
-            <marker date="1466225942000" expanded="true" signature="16776:16855" placeholder="SELECT value..${$ecs-&gt;table('shop_config')}..." />
-            <marker date="1466225942000" expanded="true" signature="18015:18090" placeholder="SELECT value..${$ecs-&gt;table('shop_config')}..." />
-            <marker date="1466225942000" expanded="true" signature="18189:18265" placeholder="SELECT value..${$ecs-&gt;table('shop_config')}..." />
-            <marker date="1466225942000" expanded="true" signature="22698:22785" placeholder="SELECT shipp..${$ecs-&gt;table('shipping')}..." />
-            <marker date="1466225942000" expanded="true" signature="22971:23357" placeholder="INSERT INTO ${$ecs-&gt;table('shipping')}..." />
-            <marker date="1466225942000" expanded="true" signature="23600:23744" placeholder="SELECT shipp..${$ecs-&gt;table(&quot;shipping_area&quot;)}..." />
-            <marker date="1466225942000" expanded="true" signature="24551:24749" placeholder="INSERT INTO ${$ecs-&gt;table('shipping_area')}..." />
-            <marker date="1466225942000" expanded="true" signature="26233:26312" placeholder="SELECT COUNT..${$ecs-&gt;table('payment')}..." />
-            <marker date="1466225942000" expanded="true" signature="26990:27250" placeholder="INSERT INTO ${$ecs-&gt;table('payment')}..." />
-            <marker date="1466225942000" expanded="true" signature="29020:29130" placeholder="INSERT INTO ${$ecs-&gt;table('brand')}..." />
-            <marker date="1466225942000" expanded="true" signature="29258:29388" placeholder="INSERT INTO ${$ecs-&gt;table('category')}..." />
-            <marker date="1466225942000" expanded="true" signature="29577:29607" placeholder="SELECT MAX(g..${$ecs-&gt;table('goods')}..." />
-            <marker date="1466225942000" expanded="true" signature="36015:36539" placeholder="INSERT INTO ${$ecs-&gt;table('goods')}..." />
-            <marker date="1466225942000" expanded="true" signature="36760:36957" placeholder="INSERT INTO ${$ecs-&gt;table('goods_gallery')}..." />
-            <marker date="1466225942000" expanded="true" signature="37992:38091" placeholder="SELECT COUNT..${$ecs-&gt;table('order_info')}..." />
-            <marker date="1466225942000" expanded="true" signature="38168:38242" placeholder="SELECT COUNT..${$ecs-&gt;table('order_info')}..." />
-            <marker date="1466225942000" expanded="true" signature="39012:39092" placeholder="SELECT todol..${$GLOBALS['ecs']-&gt;table('admin_user')}..." />
-            <marker date="1466225942000" expanded="true" signature="39376:39468" placeholder="SELECT * FRO..${$ecs-&gt;table('email_sendlist')}..." />
-            <marker date="1466225942000" expanded="true" signature="39708:39779" placeholder="DELETE FROM ..." />
-            <marker date="1466225942000" expanded="true" signature="39838:39859" placeholder="SELECT COUNT..${$ecs-&gt;table('email_sendlist')}..." />
-            <marker date="1466225942000" expanded="true" signature="40021:40112" placeholder="SELECT * FRO..${$ecs-&gt;table('mail_templates')}..." />
-            <marker date="1466225942000" expanded="true" signature="40571:40642" placeholder="DELETE FROM ..." />
-            <marker date="1466225942000" expanded="true" signature="40730:40751" placeholder="SELECT COUNT..${$ecs-&gt;table('email_sendlist')}..." />
-            <marker date="1466225942000" expanded="true" signature="41482:41553" placeholder="DELETE FROM ..." />
-            <marker date="1466225942000" expanded="true" signature="41635:41656" placeholder="SELECT COUNT..${$ecs-&gt;table('email_sendlist')}..." />
-            <marker date="1466225942000" expanded="true" signature="41865:41936" placeholder="DELETE FROM ..." />
-            <marker date="1466225942000" expanded="true" signature="41995:42016" placeholder="SELECT COUNT..${$ecs-&gt;table('email_sendlist')}..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -844,7 +828,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/templates/start.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.333333">
+        <state vertical-scroll-proportion="0.0">
           <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
           <folding>
             <element signature="n#style#0;n#ul#1;n#!!top" expanded="true" />
@@ -854,7 +838,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/templates/get_pwd.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
+        <state vertical-scroll-proportion="0.0">
           <caret line="68" column="88" selection-start-line="68" selection-start-column="88" selection-end-line="68" selection-end-column="88" />
           <folding />
         </state>
@@ -862,7 +846,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/templates/login.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.333333">
+        <state vertical-scroll-proportion="0.0">
           <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
           <folding />
         </state>
@@ -893,7 +877,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25">
+        <state vertical-scroll-proportion="0.0">
           <caret line="736" column="37" selection-start-line="736" selection-start-column="37" selection-end-line="736" selection-end-column="37" />
           <folding />
         </state>
@@ -901,11 +885,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/templates/top.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68085104">
-          <caret line="196" column="45" selection-start-line="196" selection-start-column="45" selection-end-line="196" selection-end-column="45" />
+        <state vertical-scroll-proportion="-5.535714">
+          <caret line="190" column="0" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ecmoban_benlai2015/library/index_ad.lbi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18829517">
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
