@@ -27,8 +27,8 @@ if (!defined('IN_ECS'))
 function get_gd_version()
 {
     include_once(ROOT_PATH . 'includes/cls_image.php');
-
-    return cls_image::gd_version();
+    $cls_gile = new cls_image();
+    return $cls_gile->gd_version();
 }
 
 /**

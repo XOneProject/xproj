@@ -1021,7 +1021,7 @@ class RSSBuilder extends RSSBase
 
         if (count($this->getItemList()) > 0) {
             foreach ($this->getItemList() AS $id) {
-                $item =& $this->items[$id];
+                $item = $this->items[$id];
 
                 if (strlen($item->getTitle()) > 0 && strlen($item->getLink()) > 0) {
                     $this->output .= (string) '<item>' . "\n";
@@ -1138,7 +1138,7 @@ class RSSBuilder extends RSSBase
         if (count($this->getItemList()) > 0) {
             $this->output .= (string) '<items><rdf:Seq>' . "\n";
             foreach ($this->getItemList() as $id) {
-                $item =& $this->items[$id];
+                $item = $this->items[$id];
                 if (strlen($item->getAbout()) > 0) {
                     $this->output .= (string) ' <rdf:li resource="' . $item->getAbout() . '" />' . "\n";
                 } // end if
@@ -1149,7 +1149,7 @@ class RSSBuilder extends RSSBase
 
         if (count($this->getItemList()) > 0) {
             foreach ($this->getItemList() as $id) {
-                $item =& $this->items[$id];
+                $item = $this->items[$id];
 
                 if (strlen($item->getTitle()) > 0 && strlen($item->getLink()) > 0) {
                     if (strlen($item->getAbout()) > 0) {
@@ -1258,7 +1258,7 @@ class RSSBuilder extends RSSBase
 
         if (count($this->getItemList()) > 0) {
             foreach ($this->getItemList() as $id) {
-                $item =& $this->items[$id];
+                $item = $this->items[$id];
 
                 if (strlen($item->getTitle()) > 0 && strlen($item->getLink()) > 0) {
                     $this->output .= (string) '<item>' . "\n";

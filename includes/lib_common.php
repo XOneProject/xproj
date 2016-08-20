@@ -153,14 +153,14 @@ function region_result($parent, $sel_name, $type)
     $arr = get_regions($type, $parent);
     foreach ($arr AS $v)
     {
-        $region      =& $cp->add_node('region');
-        $region_id   =& $region->add_node('id');
-        $region_name =& $region->add_node('name');
+        $region      = $cp->add_node('region');
+        $region_id   = $region->add_node('id');
+        $region_name = $region->add_node('name');
 
         $region_id->set_data($v['region_id']);
         $region_name->set_data($v['region_name']);
     }
-    $select_obj =& $cp->add_node('select');
+    $select_obj = $cp->add_node('select');
     $select_obj->set_data($sel_name);
 }
 
