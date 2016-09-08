@@ -70,14 +70,15 @@ if (PHP_VERSION >= '5.1' && !empty($timezone))
     date_default_timezone_set($timezone);
 }
 
-if (isset($_SERVER['PHP_SELF']))
+/*if (isset($_SERVER['PHP_SELF']))
 {
     define('PHP_SELF', $_SERVER['PHP_SELF']);
 }
 else
 {
     define('PHP_SELF', $_SERVER['SCRIPT_NAME']);
-}
+}*/
+define( 'PHP_SELF' , $_SERVER['DOCUMENT_URI'] );
 
 require(ROOT_PATH . 'includes/inc_constant.php');
 require(ROOT_PATH . 'includes/cls_ecshop.php');
