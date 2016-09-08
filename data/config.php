@@ -1,4 +1,6 @@
 <?php
+
+date_default_timezone_set('PRC');
 // database host
 $db_host   = "120.26.54.251:3306";
 
@@ -30,6 +32,6 @@ define('AUTH_KEY', 'this is a key');
 
 define('OLD_AUTH_KEY', '');
 
-define('API_TIME', '2016-08-12 23:11:11');
+define('API_TIME', '2016-09-08 20:21:02');
 
 ?>
