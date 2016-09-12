@@ -2,7 +2,7 @@
 <project version="4">
   <component name="PublishConfigData" serverName="xproj">
     <serverData>
-      <paths name="xproj2a">
+      <paths name="xproj">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
