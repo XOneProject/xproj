@@ -1,11 +1,11 @@
 <?php
 return array(
-    'DB_TYPE' => 'mysql',
-    'DB_HOST' => 'localhost',
-    'DB_NAME' => 'ectouch_db',
-    'DB_USER' => 'root',
-    'DB_PWD' => '',
-    'DB_PORT' => '3306',
-    'DB_PREFIX' => 'ecs_',
-    'DB_CHARSET' => 'utf8'
+    'DB_HOST'   => '120.26.54.251',
+    'DB_USER'   => 'root',
+    'DB_PWD'   => 'WrbsScc123',
+    'DB_NAME'   => 'ecs',
+    'DB_PREFIX'   => 'fdy_',
+    'DB_PORT'   => '3306',
+    'DB_CHARSET'   => 'utf8',
+    'DB_TYPE'   => 'mysql',
 );
